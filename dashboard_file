@@ -1,0 +1,75 @@
+---
+title: "Strategic Planning Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    source_code: embed
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(plotly)
+library(ggplot2)
+library(formattable)
+library(shiny)
+library(plyr)
+library(dplyr)
+```
+# Intro {.sidebar}
+This dashboard is an example of how to use flexdashboard for a simple, online data visualization.
+
+For this visualization, I used 297 institutions' data from IPEDS (the 2015 data surveys). All were doctorate-granting institutions with total enrollments of at least 10,000. Although AAU status is reported, only 55 AAU schools were included in this analysis. 
+
+The line plots are interactive and by hovering over the points, you can see specific information for a school. 
+
+# Student Success
+
+## Column 1
+
+### Graduation Rate over Retention Rate (by AAU Status)
+``` {r echo=FALSE}
+a <- read.csv("~/ipeds_reduced.csv", header=TRUE)
+b <- a[which(a$grad_rate != 0), ]
+
+UD_grad <- b[which(b$School == "University of Delaware"),]
+
+  
+c_grad <- list(
+    x = UD_grad$Retention,
+    y = UD_grad$grad_rate,
+    text = "UD",
+    xref = "x",
+    yref = "y",
+    showarrow = TRUE,
+    arrowhead = 7,
+    ax = -20,
+    ay = -40
+)
+
+#make the data frames and loess regression for adding the lines
+aau.grad <- b[which(b$AAU_SCHOOL == "AAU"),]
+non.aau.grad <-b[which(b$AAU_SCHOOL == "NON-AAU"),]
+aau.grad.loess <- loess(grad_rate ~ Retention, span = 0.75, se = TRUE, data=aau.grad)
+aau.grad$y.loess <- predict(aau.grad.loess, aau.grad)
+
+#aau.grad.fitted <- lm(grad_rate ~ Retention, data=aau.grad)
+non.aau.grad.loess <- loess(grad_rate ~ Retention, span = 0.75, data=non.aau.grad)
+non.aau.grad$y.loess <- predict(non.aau.grad.loess, non.aau.grad)
+
+
+p_grad <- plot_ly(
+  b, x = ~Retention, y = ~grad_rate,
+  text = ~paste("School: ", School, "<br>Grad Rate: ", grad_rate, "<br>Retention Rate: ", Retention), color = ~AAU_SCHOOL, colors = c("orange", "blue"))%>%
+    add_markers()%>%
+    add_lines(data = aau.grad, x = ~Retention, y = ~y.loess, mode="line", showlegend = FALSE, hoverinfo='none') %>%
+    add_lines(data = non.aau.grad, x = ~Retention, y = ~y.loess, mode="line", showlegend = FALSE, hoverinfo='none') %>%
+    layout(title = "<b>Plot of 6-yr Graduation Rate over Retention Rate (with label for UD point)",
+           annotations = c_grad,
+           xaxis = list(title = "<b>Retention Rate", range = c(0,102), showspikes = TRUE),
+           yaxis = list(title = "<b>6-yr Graduation Rate", range = c(0,102), showspikes = TRUE))
+p_grad
+
+```
+
+
+***
