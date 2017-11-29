@@ -1,0 +1,298 @@
+AAU_SCHOOL,UNITID,School,Retention,grad_rate
+NON-AAU,100663,University of Alabama at Birmingham,79,55
+NON-AAU,100751,The University of Alabama,86,67
+NON-AAU,100858,Auburn University,90,73
+NON-AAU,102094,University of South Alabama,73,35
+NON-AAU,102368,Troy University,79,34
+NON-AAU,102553,University of Alaska Anchorage,71,27
+NON-AAU,104151,Arizona State University-Tempe,86,66
+AAU,104179,University of Arizona,80,61
+NON-AAU,104717,Grand Canyon University,67,34
+NON-AAU,105330,Northern Arizona University,74,52
+NON-AAU,106245,University of Arkansas at Little Rock,72,27
+NON-AAU,106397,University of Arkansas,82,62
+NON-AAU,106458,Arkansas State University-Main Campus,76,39
+NON-AAU,106467,Arkansas Tech University,71,46
+NON-AAU,106704,University of Central Arkansas,72,45
+NON-AAU,110510,California State University-San Bernardino,87,52
+AAU,110529,California State Polytechnic University-Pomona,89,63
+NON-AAU,110556,California State University-Fresno,83,58
+NON-AAU,110565,California State University-Fullerton,88,62
+NON-AAU,110574,California State University-East Bay,80,45
+NON-AAU,110583,California State University-Long Beach,89,67
+NON-AAU,110592,California State University-Los Angeles,84,45
+NON-AAU,110608,California State University-Northridge,79,50
+NON-AAU,110617,California State University-Sacramento,80,46
+AAU,110635,University of California-Berkeley,96,92
+AAU,110644,University of California-Davis,93,85
+AAU,110653,University of California-Irvine,93,88
+AAU,110662,University of California-Los Angeles,96,91
+NON-AAU,110671,University of California-Riverside,91,73
+AAU,110680,University of California-San Diego,95,87
+AAU,110705,University of California-Santa Barbara,93,81
+NON-AAU,110714,University of California-Santa Cruz,88,78
+NON-AAU,119605,National University,64,30
+NON-AAU,122409,San Diego State University,89,68
+NON-AAU,122597,San Francisco State University,82,51
+NON-AAU,122612,University of San Francisco,83,71
+NON-AAU,122755,San Jose State University,86,57
+AAU,123961,University of Southern California,96,92
+NON-AAU,126562,University of Colorado Denver/Anschutz Medical Campus,68,46
+NON-AAU,126580,University of Colorado Colorado Springs,68,44
+AAU,126614,University of Colorado Boulder,86,71
+NON-AAU,126818,Colorado State University-Fort Collins,87,67
+NON-AAU,127060,University of Denver,86,77
+NON-AAU,127741,University of Northern Colorado,72,48
+NON-AAU,128771,Central Connecticut State University,78,57
+NON-AAU,129020,University of Connecticut,92,83
+NON-AAU,130493,Southern Connecticut State University,75,52
+AAU,130794,Yale University,99,97
+NON-AAU,130943,University of Delaware,92,81
+NON-AAU,131113,Wilmington University,60,23
+NON-AAU,131159,American University,88,81
+NON-AAU,131469,George Washington University,94,83
+NON-AAU,131496,Georgetown University,96,94
+NON-AAU,131520,Howard University,89,60
+NON-AAU,132903,University of Central Florida,89,70
+NON-AAU,133669,Florida Atlantic University,78,49
+NON-AAU,133951,Florida International University,88,58
+NON-AAU,134097,Florida State University,93,79
+AAU,134130,University of Florida,96,87
+NON-AAU,135726,University of Miami,92,82
+NON-AAU,136172,University of North Florida,80,55
+NON-AAU,136215,Nova Southeastern University,80,44
+NON-AAU,137032,Saint Leo University,71,42
+NON-AAU,137351,University of South Florida-Main Campus,88,68
+NON-AAU,138354,The University of West Florida,72,47
+AAU,139658,Emory University,94,89
+NON-AAU,139755,Georgia Institute of Technology-Main Campus,97,85
+NON-AAU,139931,Georgia Southern University,82,50
+NON-AAU,139940,Georgia State University,80,54
+NON-AAU,139959,University of Georgia,95,84
+NON-AAU,141264,Valdosta State University,70,36
+NON-AAU,141334,University of West Georgia,72,39
+NON-AAU,141574,University of Hawaii at Manoa,78,57
+NON-AAU,142115,Boise State University,76,38
+NON-AAU,142276,Idaho State University,72,30
+NON-AAU,142285,University of Idaho,80,57
+AAU,144050,University of Chicago,100,92
+NON-AAU,144740,DePaul University,84,73
+NON-AAU,145600,University of Illinois at Chicago,81,60
+AAU,145637,University of Illinois at Urbana-Champaign,93,85
+NON-AAU,145813,Illinois State University,82,73
+NON-AAU,146719,Loyola University Chicago,86,74
+NON-AAU,147703,Northern Illinois University,72,50
+AAU,147767,Northwestern University,97,93
+NON-AAU,149222,Southern Illinois University-Carbondale,68,45
+NON-AAU,149231,Southern Illinois University-Edwardsville,74,49
+NON-AAU,149772,Western Illinois University,68,53
+NON-AAU,150136,Ball State University,82,61
+NON-AAU,151102,Indiana University-Purdue University-Fort Wayne,64,25
+NON-AAU,151111,Indiana University-Purdue University-Indianapolis,74,45
+NON-AAU,151306,University of Southern Indiana,71,41
+NON-AAU,151324,Indiana State University,64,41
+AAU,151351,Indiana University-Bloomington,89,77
+NON-AAU,151801,Indiana Wesleyan University-Marion,82,65
+NON-AAU,152080,University of Notre Dame,98,97
+AAU,153603,Iowa State University,87,71
+AAU,153658,University of Iowa,85,72
+NON-AAU,154095,University of Northern Iowa,80,68
+AAU,155317,University of Kansas,80,61
+NON-AAU,155399,Kansas State University,83,62
+NON-AAU,156125,Wichita State University,72,43
+NON-AAU,156620,Eastern Kentucky University,74,45
+NON-AAU,157085,University of Kentucky,83,61
+NON-AAU,157289,University of Louisville,79,53
+NON-AAU,157386,Morehead State University,66,40
+NON-AAU,157401,Murray State University,72,48
+NON-AAU,157447,Northern Kentucky University,69,40
+NON-AAU,157951,Western Kentucky University,72,50
+NON-AAU,159391,Louisiana State University and Agricultural & Mechanical College,85,65
+NON-AAU,159647,Louisiana Tech University,80,53
+NON-AAU,160612,Southeastern Louisiana University,64,37
+NON-AAU,160658,University of Louisiana at Lafayette,76,45
+AAU,160755,Tulane University of Louisiana,92,83
+NON-AAU,161253,University of Maine,76,55
+AAU,162928,Johns Hopkins University,97,94
+NON-AAU,163204,University of Maryland-University College,38,8
+NON-AAU,163268,University of Maryland-Baltimore County,86,63
+AAU,163286,University of Maryland-College Park,95,86
+NON-AAU,164076,Towson University,86,70
+NON-AAU,164924,Boston College,95,92
+AAU,164988,Boston University,93,85
+AAU,166027,Harvard University,98,98
+NON-AAU,166513,University of Massachusetts-Lowell,86,56
+NON-AAU,166629,University of Massachusetts-Amherst,91,78
+NON-AAU,166638,University of Massachusetts-Boston,78,42
+AAU,166683,Massachusetts Institute of Technology,98,92
+NON-AAU,167358,Northeastern University,97,84
+NON-AAU,168148,Tufts University,97,93
+NON-AAU,169248,Central Michigan University,79,59
+NON-AAU,169798,Eastern Michigan University,74,40
+NON-AAU,169910,Ferris State University,80,49
+NON-AAU,170082,Grand Valley State University,84,67
+AAU,170976,University of Michigan-Ann Arbor,97,90
+AAU,171100,Michigan State University,92,77
+NON-AAU,171571,Oakland University,76,44
+NON-AAU,172644,Wayne State University,77,35
+NON-AAU,172699,Western Michigan University,79,54
+NON-AAU,173920,Minnesota State University-Mankato,74,48
+AAU,174066,University of Minnesota-Twin Cities,93,77
+NON-AAU,174233,University of Minnesota-Duluth,76,60
+NON-AAU,174783,Saint Cloud State University,72,42
+NON-AAU,174914,University of St Thomas,89,76
+NON-AAU,176017,University of Mississippi,87,61
+NON-AAU,176080,Mississippi State University,82,60
+NON-AAU,176372,University of Southern Mississippi,73,50
+NON-AAU,177968,Lindenwood University,66,49
+AAU,178396,University of Missouri-Columbia,87,69
+NON-AAU,178402,University of Missouri-Kansas City,75,49
+NON-AAU,178420,University of Missouri-St Louis,75,41
+NON-AAU,179159,Saint Louis University,90,71
+NON-AAU,179566,Missouri State University-Springfield,78,52
+AAU,179867,Washington University in St Louis,96,93
+NON-AAU,179894,Webster University,78,62
+NON-AAU,180461,Montana State University,76,52
+NON-AAU,180489,The University of Montana,73,46
+NON-AAU,181394,University of Nebraska at Omaha,77,47
+NON-AAU,181464,University of Nebraska-Lincoln,83,67
+NON-AAU,182281,University of Nevada-Las Vegas,74,41
+NON-AAU,182290,University of Nevada-Reno,81,59
+NON-AAU,183026,Southern New Hampshire University,61,59
+NON-AAU,183044,University of New Hampshire-Main Campus,85,80
+NON-AAU,184782,Rowan University,86,67
+NON-AAU,185262,Kean University,74,50
+NON-AAU,185590,Montclair State University,83,66
+NON-AAU,185828,New Jersey Institute of Technology,88,61
+AAU,186380,Rutgers University-New Brunswick,93,80
+NON-AAU,186399,Rutgers University-Newark,87,68
+NON-AAU,187444,William Paterson University of New Jersey,75,49
+NON-AAU,187985,University of New Mexico-Main Campus,80,47
+NON-AAU,188030,New Mexico State University-Main Campus,74,43
+AAU,190150,Columbia University in the City of New York,96,95
+AAU,190415,Cornell University,97,93
+NON-AAU,190558,College of Staten Island CUNY,80,43
+NON-AAU,190567,CUNY City College,87,44
+NON-AAU,190594,CUNY Hunter College,83,54
+NON-AAU,191241,Fordham University,91,81
+NON-AAU,191649,Hofstra University,80,60
+NON-AAU,193016,Mercy College,76,38
+NON-AAU,193654,The New School,81,65
+AAU,193900,New York University,93,84
+NON-AAU,194310,Pace University-New York,78,53
+NON-AAU,195003,Rochester Institute of Technology,89,70
+AAU,195030,University of Rochester,96,88
+NON-AAU,195809,St John's University-New York,80,58
+NON-AAU,196060,SUNY at Albany,82,68
+NON-AAU,196079,SUNY at Binghamton,91,81
+AAU,196088,University at Buffalo,88,74
+AAU,196097,Stony Brook University,90,68
+NON-AAU,196413,Syracuse University,91,81
+NON-AAU,196592,Touro College,67,62
+NON-AAU,197869,Appalachian State University,86,71
+AAU,198419,Duke University,97,95
+NON-AAU,198464,East Carolina University,80,62
+NON-AAU,199102,North Carolina A & T State University,75,44
+AAU,199120,University of North Carolina at Chapel Hill,97,90
+NON-AAU,199139,University of North Carolina at Charlotte,83,53
+NON-AAU,199148,University of North Carolina at Greensboro,77,56
+NON-AAU,199193,North Carolina State University at Raleigh,93,76
+NON-AAU,199218,University of North Carolina Wilmington,85,71
+NON-AAU,200004,Western Carolina University,80,57
+NON-AAU,200280,University of North Dakota,81,53
+NON-AAU,200332,North Dakota State University-Main Campus,78,54
+NON-AAU,200800,University of Akron Main Campus,74,40
+NON-AAU,201441,Bowling Green State University-Main Campus,78,56
+AAU,201645,Case Western Reserve University,94,81
+NON-AAU,201885,University of Cincinnati-Main Campus,88,65
+NON-AAU,202134,Cleveland State University,71,39
+NON-AAU,202480,University of Dayton,91,79
+NON-AAU,203517,Kent State University at Kent,81,56
+NON-AAU,204024,Miami University-Oxford,90,80
+AAU,204796,Ohio State University-Main Campus,94,83
+NON-AAU,204857,Ohio University-Main Campus,79,66
+NON-AAU,206084,University of Toledo,72,42
+NON-AAU,206604,Wright State University-Main Campus,67,40
+NON-AAU,206695,Youngstown State University,75,31
+NON-AAU,207388,Oklahoma State University-Main Campus,81,61
+NON-AAU,207500,University of Oklahoma-Norman Campus,86,66
+NON-AAU,209542,Oregon State University,85,64
+AAU,209551,University of Oregon,88,71
+NON-AAU,209807,Portland State University,71,42
+AAU,211440,Carnegie Mellon University,98,88
+NON-AAU,212054,Drexel University,84,68
+NON-AAU,213020,Indiana University of Pennsylvania-Main Campus,76,55
+AAU,214777,Pennsylvania State University-Main Campus,93,86
+AAU,215062,University of Pennsylvania,98,95
+AAU,215293,University of Pittsburgh-Pittsburgh Campus,92,82
+NON-AAU,216339,Temple University,90,71
+NON-AAU,216597,Villanova University,96,90
+NON-AAU,216764,West Chester University of Pennsylvania,88,71
+NON-AAU,217484,University of Rhode Island,84,63
+NON-AAU,217882,Clemson University,93,81
+NON-AAU,218663,University of South Carolina-Columbia,87,72
+NON-AAU,218724,Coastal Carolina University,65,43
+NON-AAU,219356,South Dakota State University,76,55
+NON-AAU,220075,East Tennessee State University,71,43
+NON-AAU,220862,University of Memphis,77,45
+NON-AAU,220978,Middle Tennessee State University,73,44
+NON-AAU,221740,The University of Tennessee-Chattanooga,71,44
+NON-AAU,221759,The University of Tennessee-Knoxville,85,70
+NON-AAU,221847,Tennessee Technological University,75,53
+AAU,221999,Vanderbilt University,97,92
+NON-AAU,223232,Baylor University,89,70
+NON-AAU,224147,Texas A & M University-Corpus Christi,59,37
+NON-AAU,224554,Texas A & M University-Commerce,73,42
+NON-AAU,225511,University of Houston,86,51
+NON-AAU,226091,Lamar University,58,32
+NON-AAU,227216,University of North Texas,79,52
+NON-AAU,227368,The University of Texas Rio Grande Valley,77,39
+NON-AAU,227881,Sam Houston State University,80,49
+NON-AAU,228246,Southern Methodist University,90,79
+NON-AAU,228431,Stephen F Austin State University,71,41
+NON-AAU,228459,Texas State University,78,53
+NON-AAU,228529,Tarleton State University,66,44
+AAU,228723,Texas A & M University-College Station,90,79
+NON-AAU,228769,The University of Texas at Arlington,71,46
+AAU,228778,The University of Texas at Austin,95,80
+NON-AAU,228787,The University of Texas at Dallas,84,66
+NON-AAU,228796,The University of Texas at El Paso,72,40
+NON-AAU,228875,Texas Christian University,90,76
+NON-AAU,229027,The University of Texas at San Antonio,68,31
+NON-AAU,229115,Texas Tech University,83,60
+NON-AAU,229179,Texas Woman's University,76,41
+NON-AAU,230038,Brigham Young University-Provo,86,80
+NON-AAU,230728,Utah State University,71,49
+NON-AAU,230764,University of Utah,89,64
+NON-AAU,231174,University of Vermont,86,77
+NON-AAU,232186,George Mason University,87,69
+NON-AAU,232423,James Madison University,91,83
+NON-AAU,232557,Liberty University,75,49
+NON-AAU,232982,Old Dominion University,82,53
+NON-AAU,233921,Virginia Polytechnic Institute and State University,94,83
+NON-AAU,234030,Virginia Commonwealth University,86,62
+AAU,234076,University of Virginia-Main Campus,97,93
+NON-AAU,235097,Eastern Washington University,78,46
+NON-AAU,236939,Washington State University,78,64
+AAU,236948,University of Washington-Seattle Campus,94,84
+NON-AAU,237525,Marshall University,73,45
+NON-AAU,238032,West Virginia University,79,57
+NON-AAU,239105,Marquette University,90,80
+NON-AAU,240189,University of Wisconsin-Whitewater,81,60
+NON-AAU,240268,University of Wisconsin-Eau Claire,80,65
+NON-AAU,240329,University of Wisconsin-La Crosse,85,68
+NON-AAU,240365,University of Wisconsin-Oshkosh,78,51
+AAU,240444,University of Wisconsin-Madison,96,85
+NON-AAU,240453,University of Wisconsin-Milwaukee,72,41
+NON-AAU,240727,University of Wyoming,77,55
+AAU,243744,Stanford University,98,94
+AAU,243780,Purdue University-Main Campus,92,75
+NON-AAU,260901,Kaplan University-Davenport Campus,33,0
+NON-AAU,426314,Embry-Riddle Aeronautical University-Worldwide,63,28
+NON-AAU,433660,Florida Gulf Coast University,79,43
+NON-AAU,448886,Arizona State University-Downtown Phoenix,83,64
+NON-AAU,454227,Chamberlain College of Nursing-Illinois,93,89
+NON-AAU,482680,University of North Georgia,81,53
+NON-AAU,483124,Arizona State University-Skysong,71,
+NON-AAU,484613,University of Phoenix-Arizona,35,11
+NON-AAU,486840,Kennesaw State University,78,42
