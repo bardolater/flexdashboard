@@ -9,11 +9,9 @@ output:
 ```{r setup, include=FALSE}
 library(flexdashboard)
 library(plotly)
-library(ggplot2)
 library(formattable)
 library(shiny)
-library(plyr)
-library(dplyr)
+library(tidyverse)
 ```
 # Intro {.sidebar}
 This dashboard is an example of how to use flexdashboard for a simple, online data visualization.
